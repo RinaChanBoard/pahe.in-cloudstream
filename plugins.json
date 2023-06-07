@@ -1,20 +1,26 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "iconUrl": "https://h.top4top.io/p_2714tg3dz0.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/extensions",
+        "repositoryUrl": "https://github.com/RinaChanBoard/pahe.in-cloudstream/",
         "fileSize": 12953,
         "status": 1,
         "authors": [
-            "Cloudburst"
+            "MarsCraft XD."
         ],
         "tvTypes": [
-            "Others"
+            "AsianDrama",
+
+            "TvSeries",
+
+            "Anime",
+
+            "Movie"
         ],
-        "version": 2,
-        "internalName": "InvidiousProvider",
-        "description": "Watch content from any invidious instance",
-        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/InvidiousProvider.cs3",
-        "name": "InvidiousProvider"
+        "version": 1,
+        "internalName": "Pahe.in",
+        "description": "Unofficial Pahe.in Extension For Cloudstream, Based By SoraStream",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
+        "name": "Pahe.in"
     }
 ]
